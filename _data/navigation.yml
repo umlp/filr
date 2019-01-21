@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MiniP"
+    url: https://umlp.github.io/filr/
   - title: "FilRouge"
     url: http://prodageo.insa-rouen.fr/filrouge/
   # - title: "About"
