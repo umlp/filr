@@ -1,8 +1,9 @@
 ---
 layout: archive
+title: Sommaire
 author_profile: true
 ---
-# Sommaire
+
 
 ## Activités
  - [Initialiser le projet](activites/initialiser_projet)
