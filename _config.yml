@@ -297,7 +297,7 @@ defaults:
 collections:
   activites:
     output: true
-    permalink: /activites/:path/
+    permalink: /activites/:name/
   artefacts:
     output: true
-    permalink: /artefacts/:path/
+    permalink: /artefacts/:name/
