@@ -1,3 +1,7 @@
+---
+layout: archive
+---
+
 # Fiche d'initialisation de projet
 
 ## Contenu

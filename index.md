@@ -6,7 +6,7 @@ author_profile: true
 Version 0.9.1
 
 ## Activités
- - [Initialiser le projet](activites/initialiser_projet)
+ - [Initialiser le projet](activites/initialiser-projet.html)
  
 ## Guide de rédaction d'artefacts
- - [Fiche d'initialisation de projet](artefacts/fiche_initialisation_projet)
+ - [Fiche d'initialisation de projet](artefacts/fiche-initialisation-projet.html)

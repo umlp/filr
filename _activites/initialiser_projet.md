@@ -1,3 +1,7 @@
+---
+layout: archive
+---
+
 # Initialiser le projet
 
 ## Introduction 
