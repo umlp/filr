@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  activites:
+    output: true
+    permalink: /activites/:path/
+  artefacts:
+    output: true
+    permalink: /artefacts/:path/
