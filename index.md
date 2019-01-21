@@ -3,7 +3,7 @@ layout: archive
 title: Sommaire
 author_profile: true
 ---
-
+Version 0.9.1
 
 ## Activités
  - [Initialiser le projet](activites/initialiser_projet)
