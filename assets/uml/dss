@@ -1,0 +1,5 @@
+This file is used by the TestProxy unit test. It contains 1 diagram description.
+
+@startuml
+Bob -> Alice : hello
+@enduml
