@@ -15,6 +15,9 @@ Version 0.9.2
 
 {{ puml }}
 
+Titre : {{ site.title }}
+PUML : {{ site.puml }}
+
 ![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
 
 ![uncached image avec liquid]({{ puml }}/test2diagrams.txt)
