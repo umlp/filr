@@ -22,4 +22,4 @@ PUML : {{ site.puml }}
 
 ![uncached image avec liquid]({{ puml }}/test2diagrams.txt)
 
-![uncached image avec liquid](http://www.plantuml.com/plantuml/proxy?cache=no&src=./assets/uml/dss.puml)
+![uncached image avec liquid](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/umlp/filr/master/assets/uml/dss.txt)
