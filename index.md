@@ -13,7 +13,7 @@ Version 0.9.2
 
 {% assign puml = "![uncached image avec liquid](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource" %}
 
-{% assign puml2 = "![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=src=https://raw.githubusercontent.com/umlp/filr/master/assets/uml" %}
+{% assign puml2 = "![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/umlp/filr/master/assets/uml" %}
 
 {{ puml }}
 
