@@ -25,7 +25,7 @@ Version 0.9.3
 ### NWO :
  - {{ site.github.repository_nwo }}
 
-{%- assign puml0 = "![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/" | append site.github.repository_nwo | append "/master/assets/uml" -%}
+{%- assign puml0 = "![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/" | append: site.github.repository_nwo | append: "/master/assets/uml" -%}
 
 ### PUML0 : 
  - {{ puml0 }}
