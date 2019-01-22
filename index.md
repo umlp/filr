@@ -11,8 +11,10 @@ Version 0.9.2
 ## Guide de rédaction d'artefacts
  - [Fiche d'initialisation de projet](artefacts/fiche-initialisation-projet.html)
 
-{% assign puml = 'http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource' %}
+{% assign puml = "http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource" %}
+
+{{ puml }}
 
 ![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
 
-![uncached image avec liquid]({{ puml }}/test2diagrams.txt)
+![uncached image avec liquid]( {{ puml }} /test2diagrams.txt)
