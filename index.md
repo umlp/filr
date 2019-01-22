@@ -19,6 +19,8 @@ Version 0.9.2
 
 {{ puml2 }}
 
+NWO : {{ site.github.repository_nwo }}
+
 Titre : {{ site.title }}
 PUML : {{ site.puml }}
 
