@@ -18,3 +18,8 @@ __IL FAUT UN FRONT MATTER__ dans chaque fichier de la collection.
 
 # Liens utiles
  - https://github.com/umlp/filr/blob/master/_data/navigation.yml : pour ajouter des menus.
+
+# Interventions, nouveautés
+
+ - 2019/09/23 : création de la page [chaine documentaire](https://github.com/umlp/filr/blob/master/chainedoc/index.md)
+ - 2019/09/22 : mise en place d'une méthode d'intégration des diagrammes PlantUML (cf #1)
