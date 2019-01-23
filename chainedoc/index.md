@@ -13,4 +13,4 @@ Accéder à l'ensemble des outils de la chaîne documentaire et de la chaine de 
 
 ## Contrôles
 
- - la concaténation des variables dans _config.yml, {{ eqp }} et {{ projet }}, doit être égale à {{ site.github.repository_nwo }} 
+ - la concaténation des variables dans _config.yml, {{ site.eqp }} et {{ site.projet }}, doit être égale à {{ site.github.repository_nwo }} 
