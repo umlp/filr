@@ -1,8 +1,13 @@
 Le présent portail est publié sur :
  - https://umlp.github.io/filr/
- - http://prodageo.insa-rouen.fr/filrouge/
- - http://prodageo.insa-rouen.fr/jekyll/filrouge/
- 
+A moyen terme sera publié sur :
+ - http://prodageo.insa-rouen.fr/filrouge.V3
+ - http://prodageo.insa-rouen.fr/jekyll/filrouge.V3
+A long terme sera fusionné avec filrougeportal et publié sur :
+ - http://prodageo.insa-rouen.fr/filrouge
+ - http://prodageo.insa-rouen.fr/jekyll/filrouge
+
+
 # Intro
 Ce portail doit faire la synthèse entre les portails suivants :
  - https://github.com/prodageo/filrougeportal
