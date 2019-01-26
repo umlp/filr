@@ -7,6 +7,15 @@ A long terme sera fusionné avec filrougeportal et publié sur :
  - http://prodageo.insa-rouen.fr/filrouge
  - http://prodageo.insa-rouen.fr/jekyll/filrouge
 
+# les dépôts matrice pour Classroom
+
+Ce dossier contient la documentation pour tout le cycle.
+
+Les templates sont dans :
+ - [matricefilr10moa](https://github.com/umlp/matricefilr10moa)
+ - [matricefilr10moe](https://github.com/umlp/matricefilr10moE)
+ - [matricefilr10pimp](https://github.com/frederic-baucher/EXU9231) (EXU9231)
+
 
 # Intro
 Ce portail doit faire la synthèse entre les portails suivants :
